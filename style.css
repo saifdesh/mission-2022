@@ -1,0 +1,121 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 50px;
+}
+
+.heading{
+    font-size: 80px;
+    color: black;
+    font-weight: bold;
+}
+.mission{
+    font-size: 68px;
+    color: orange;
+    font-weight: 900;
+}
+p{
+    font-size: 50px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    color:white;
+    padding: 20px 40px;
+    font-size: 60px;
+    border-radius: 5px;
+    
+}
+
+.flexile-container{
+    display: flex;
+}
+
+.vission-item{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5px;
+    padding: 20px;
+
+   
+}
+
+.half-width{
+    width: 50%;
+}
+
+.heading-area{
+    border-left: 7px solid grey;
+    margin-right: 20px;
+    margin-left: 10;
+    
+   
+}
+
+.m2022{
+    font-size: 68px;
+    font-weight: 900;
+    text-align: center;
+
+}
+
+
+#mission{
+    background-color: rgb(5, 187, 219);
+    border-radius: 20px;
+    margin: auto;
+    
+}
+
+#vission{
+    background-color: rgb(186, 178, 192);
+    border-radius: 20px;
+    margin: auto;
+}
+#goals{
+    background-color: rgb(219, 152, 152);
+    border-radius: 20px;
+    margin: auto;
+}
+
+.text{
+    margin-left: 20px;
+
+}
+
+.fnt-heading{
+    font-size: 60px;
+}
+
+.developing-item{
+    width: 50%;
+    margin-left: 10px;
+    margin-right: 25px;
+    padding: 100px;
+}
+
+#dev{
+    margin-top: 250px;
+}
+
+.fnt-dev{
+    font-size: 200px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.corona{
+    font-size: 200px;
+    font-family: fantasy;
+    text-align: center;
+    margin-top: 150px;
+    
+}
+
+.corona-ap{
+    color: orange;
+    
+}
+.go-corona{
+    color: orange;
+}
+
