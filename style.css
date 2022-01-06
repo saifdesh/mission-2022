@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin-left: 50px;
+    margin: 0;
 }
 
 .heading{
@@ -119,3 +119,27 @@ p{
     color: orange;
 }
 
+.footer-sp{
+    
+    color: orangered;
+    font-size: 40px;
+    font-family: fantasy;
+    text-align: center;
+    
+}
+
+.footer{
+    background-color: black;
+    text-align: center;
+}
+
+.foot-p{
+    color: white;
+    font-size: 18px;
+    text-align: center;
+}
+
+.foot-mis{
+    text-align: center;
+    color: white;
+}
