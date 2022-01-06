@@ -139,7 +139,15 @@ p{
     text-align: center;
 }
 
+
 .foot-mis{
     text-align: center;
     color: white;
+    font-family: monospace;
+}
+
+.foot-2022{
+    text-align: center;
+    color: tomato;
+    font-family: monospace;
 }
